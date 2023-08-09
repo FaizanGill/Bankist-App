@@ -9,7 +9,7 @@
 // DIFFERENT DATA! Contains movement dates, currency and locale
 
 const account1 = {
-  owner: 'Muhammad Faizan',
+  owner: 'Faizan Muhammad',
   movements: [200, 455.23, -306.5, 25000, -642.21, -133.9, 79.97, 1300],
   interestRate: 1.2, // %
   pin: 1111,
@@ -29,7 +29,7 @@ const account1 = {
 };
 
 const account2 = {
-  owner: 'Muhammad Usman',
+  owner: 'Usman Muhammad ',
   movements: [5000, 3400, -150, -790, -3210, -1000, 8500, -30],
   interestRate: 1.5,
   pin: 2222,
